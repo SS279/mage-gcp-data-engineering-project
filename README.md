@@ -3,7 +3,7 @@ Build an End-to-End Data pipeline using GCP and Mage for the analysis of churn r
 
 # Technology used
 - Programming Language - Python
-- Mage ETL
+- Mage
 - Cloud - Google Cloud Platform (GCP)
   1. Cloud Storage
   2. Compute Engine - VM Instance
